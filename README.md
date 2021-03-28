@@ -25,9 +25,9 @@ Form these measurements the following core results are obtained:
 4. The update step size to the minimum of the full-batch loss behaves almost proportional to the norm of the direction defining batch.
 
 <p float="left"> 
-<img src="/images/line1.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="300" />
-<img src="images/line2.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="300" />
-<img src="images/line3.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="300" />
+<img src="/images/line1.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="280" />
+<img src="images/line2.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="280" />
+<img src="images/line3.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="280" />
 </p>
 
 ***Fig1: Representative sample, mini-batch and full-batch losses along lines in update step direction***
