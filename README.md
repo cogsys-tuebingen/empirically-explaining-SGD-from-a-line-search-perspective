@@ -2,6 +2,8 @@
 This repository provides the code to rerun the experiments from the paper  _Empirically explaining SGD from a line search perspective_ TODO archive link.
 Further on, this code can be used to get further results on other datasets and models.
 
+
+## About the code:
 In directory *data_sampling* the code to measure the full-batch loss during SGD training is found. 
 Edit the configuration_sgd_data_sampling.txt to run the code on different datasets or models.
 
