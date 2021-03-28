@@ -1,10 +1,9 @@
 
-# This
-
+# This script creates plots of the full-batch loss along lines such as in Figure  5 and 2. In addition, several metrics
+# (Figure 6) for several optimizers and hyper parameters (such as the batch size (Figure 7)) are computed.
 
 from line_statistics import *
 
-# Create plots of the full-batch loss along lines such as in Figure 
 is_plot = False
 plot_interval=10
 

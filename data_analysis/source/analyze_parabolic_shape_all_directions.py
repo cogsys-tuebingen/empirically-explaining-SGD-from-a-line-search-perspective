@@ -1,5 +1,5 @@
 # This script calculates the distance MAE between full-batch losses along lines  (Figure 3) and the MAE of the parabolic approximation (Figure 4)
-# In contrast to "analyze_parabolic_shape.py"  this script compares sets of resulting lines of multiple noisy gradient directions origin from the same position.
+# In contrast to "analyze_parabolic_shape.py"  this script compares sets of resulting lines of multiple noisy gradient directions originating from the same position.
 from line_statistics import *
 
 data_load_path = "CIFAR10_mom0_resnet20_augment_on_pos"
