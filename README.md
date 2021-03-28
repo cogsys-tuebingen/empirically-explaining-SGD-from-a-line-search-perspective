@@ -5,7 +5,7 @@ Further on, this code can be used to get further results on other datasets and m
 
 ## About the code:
 In directory *data_sampling* the code to measure the full-batch loss during SGD training is found. 
-Edit the *configuration_sgd_data_sampling.txt* to run the code on different datasets or models.
+Edit the *configuration_sgd_data_sampling.txt* to run the code on different datasets or models. Possible configurations are found in the *registry* directory.
 
 In directory *data_sampling* the code to analyze the loss data along lines is found. 
 - *analyze_metrics* creates plots of the full-batch loss along lines such as in Figure 5 and 2 of the paper. In addition, several metrics
