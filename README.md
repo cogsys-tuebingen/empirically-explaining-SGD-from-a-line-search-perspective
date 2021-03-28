@@ -18,12 +18,10 @@ Form these measurements the following core results are obtained:
 3. Increasing the batch size by a factor has the same effect as decreasing the learning rate by the same factor.
 4. The update step size to the minimum of the full-batch loss behaves almost proportional to the norm of the direction defining batch.
 
-![test](data_sampling/images/line_analysis-figure2.pdf)
-
 <p float="left"> 
-<img src="data_sampling/images/line_analysis-figure2.pdf" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="380" />
-<img src="data_sampling/images/line_analysis-figure2.pdf" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="380" />
-<img src="data_sampling/images/line_analysis-figure2.pdf" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="380" />
+<img src="/images/line1.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="380" />
+<img src="images/line2.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="380" />
+<img src="images/line3.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="380" />
 </p>
 
 
