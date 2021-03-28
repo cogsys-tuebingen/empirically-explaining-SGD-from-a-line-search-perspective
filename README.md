@@ -36,7 +36,6 @@ Form these measurements the following core results are obtained:
 However, to show the generality of those observations this code has to be run on more datasets and models.
 Thus, feel free to do so.
 
-Maximus Mutschler
 
 
 
