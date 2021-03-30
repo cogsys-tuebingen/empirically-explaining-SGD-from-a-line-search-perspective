@@ -329,7 +329,7 @@ def get_pal_sgd_bls_statistics_with_pal_adaption(data_load_path, data_files, con
                 direction_batch_directional_derivative = - direction_norm
 
             directional_derivatives_direction_batch_momentum = directional_derivatives_direction_batch_momentum * 0.9 + direction_batch_directional_derivative
-            if is_momentum:
+            if not is_momentum:
                 directional_derivatives_direction_batch.append(direction_batch_directional_derivative)
             else:
                 directional_derivatives_direction_batch.append(directional_derivatives_direction_batch_momentum)
