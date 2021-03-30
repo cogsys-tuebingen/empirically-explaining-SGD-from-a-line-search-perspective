@@ -1,6 +1,6 @@
 # Empirically explaining SGD from a line search perspective:
 This repository provides the code to rerun the experiments from the paper  _Empirically explaining SGD from a line search perspective_ TODO archive link.
-This code can also be used to perform the analysis on further datasets and models.
+This code can also be used to perform our analysis on further datasets and models.
 
 
 ## About the code:
