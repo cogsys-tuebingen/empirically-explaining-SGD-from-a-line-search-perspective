@@ -34,7 +34,7 @@ Form these measurements the following core results are obtained:
 <img src="images/line3.png" title="full-batch loss along update step direction" alt="full-batch loss along update step direction" width="240" />
 </p>
 
-***Fig1: Representative sample, mini-batch and full-batch losses along lines in update step direction***
+***Fig1: Representative mini-batch and full-batch losses along lines in update step direction***
 
 
 **Those results have to be handled with care since we evaluated them only on 3 models (ResNet-20, ResNet-18 and MobileNetV2).**
