@@ -7,7 +7,7 @@ This code can also be used to perform the analysis on further datasets and model
 In directory *data_sampling* the code to measure the full-batch loss during SGD training is found. 
 Edit the *configuration_sgd_data_sampling.txt* to run the code on different datasets or models. Possible configurations are found in the *registry* directory.
 
-The sampled data for our experiments on ResNet-20 and SGD without momentum can be downloaded [here](https://u-173-c142.cs.uni-tuebingen.de/index.php/s/C5TWtfb3Bdeo9ns)
+The sampled data for our experiments on ResNet-20 and SGD without momentum can be downloaded [here](https://u-173-c142.cs.uni-tuebingen.de/index.php/s/C5TWtfb3Bdeo9ns).
 
 In directory *data_sampling* the code to analyze the loss data along lines is found. 
 - *analyze_metrics* creates plots of the full-batch loss along lines such as in Figure 5 and 2 of the paper. In addition, several metrics
@@ -38,7 +38,7 @@ Form these measurements the following core results are obtained:
 
 
 **Those results have to be handled with care since we evaluated them only on 3 models (ResNet-20, ResNet-18 and MobileNetV2).**
-**To provide more evidence for teh the generality of these observations, this code has to be run on more datasets and models.
+**To provide more evidence for the generality of these observations, this code has to be run on more datasets and models.
 Thus, feel free to do so.**
 
 
